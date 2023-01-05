@@ -1,10 +1,12 @@
 # Sigurdur's school notes
 
 Class notes:
-- [Chemistry](./chemistry-hl/readme.md)
-- [French](./french/readme.md)
-- [Icelandic](./icelandic-sl/readme.md)
-- [Math](./math-hl/readme.md)
-- [Physics](./physics-hl)
-- [Psychology](./psychology-sl/readme.md)
+- [Chemistry](readme-chemistry.md)
+- [French](readme-french.md)
+- [Icelandic](readme-icelandic.md)
+- [Math](readme-math.md)
+- [Physics](readme-physics.md)
+- [Psychology](readme-psychology.md)
+- [Theory of Knowledge](readme-tok.md)
+
 
