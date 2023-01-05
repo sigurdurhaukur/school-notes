@@ -1,0 +1,1 @@
+There are 5 areas of knowledge: [art](./art/art.md), [history](./history/history.md), [human-sciences](./human-sciences/human-sciences.md), [mathematics](./mathematics/mathematics.md), and [natural sciences](./natural-sciences/natural-sciences.md).
