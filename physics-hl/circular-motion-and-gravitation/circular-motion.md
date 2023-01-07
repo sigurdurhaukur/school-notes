@@ -48,7 +48,6 @@ the video below explains the difference very well. Basicly angular speed is how 
 That's why linear speed is dependant on the radius $r$ but angular speed is dependant on the frequency $f$
 
 $$
-
 v = \frac{ 2 \pi r }{T}
 $$
 $$
