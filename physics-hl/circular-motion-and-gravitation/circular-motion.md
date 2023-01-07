@@ -15,30 +15,36 @@
 The linear speed is the speed of a rotating object.
 
 the constant speed of an object travelling in a circular motion of radius $r$ and with the time taken to complete one full revolution, $T$  the **period** of the motion.
+
 $$
 v = \frac{ 2 \pi r }{T}
 $$
 
 ### Angular speed (rad/s)
 The angular speed is the rate at which the thing turns.
+
 $$
 \omega = \frac{\text{angle swept}}{\text{time taken}} = \frac{\Delta \theta}{\Delta t}
 $$
 For  a full revolution, $\Delta \theta = 2 \pi r$ and $\Delta t = T$ the angular speed is:
+
 $$
 \omega = \frac{2 \pi r}{T}
 $$
 Since the rotating **frequency** $f$ is given by:
+
 $$
 f = \frac{1}{T}
 $$
 we have:
+
 $$
 w = \frac{2 \pi r}{T} = 2 \pi f
 $$
 
 ### Relation between linear speed and angular speed
 The relation is given by the databooklet
+
 $$
 v = r \omega
 $$
@@ -50,6 +56,7 @@ That's why linear speed is dependant on the radius $r$ but angular speed is depe
 $$
 v = \frac{ 2 \pi r }{T}
 $$
+
 $$
 \omega = \frac{\text{angle swept}}{\text{time taken}} = \frac{\Delta \theta}{\Delta t}
 $$
