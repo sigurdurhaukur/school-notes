@@ -1,6 +1,6 @@
 # Sigurdur's school notes
 
-*Disclaimer: does not include the notes form the first semester (fall 2022)*
+*does not include the notes from the first semester (fall 2022)*
 
 Subject notes:
 - [Chemistry](chemistry-hl/readme.md)

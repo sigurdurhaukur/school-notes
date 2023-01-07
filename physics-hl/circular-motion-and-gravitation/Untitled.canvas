@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"dace4725616abcb6","x":-411,"y":-65,"width":250,"height":60,"type":"text","text":"Linear speed"},
+		{"id":"184ba737c457f749","x":181,"y":-65,"width":250,"height":60,"type":"text","text":"Angular speed"}
+	],
+	"edges":[]
+}
