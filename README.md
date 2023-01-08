@@ -15,7 +15,9 @@ useful links
 - [Inna.is](https://inna.is/)
 - [Thesaurus](https://www.thesaurus.com/)
 - [Transition words](https://www.smart-words.org/linking-words/transition-words.html)
-- [Google Translate](https://www.google.com/search?q=google+translate&oq=google+translate&aqs=chrome..69i57j0l7.3644j0j7&sourceid=chrome&ie=UTF-8) 
+- [Google Translate](https://www.google.com/search?q=google+translate&oq=google+translate&aqs=chrome..69i57j0l7.3644j0j7&sourceid=chrome&ie=UTF-8)
+- [WordReference](https://www.wordreference.com/)
+
 
 for past papers and stuff 🤫:
 - [revisiondojo](https://revisiondojo.com/Past%20Papers/IB/Mathematics/Mathematics/)

@@ -1,7 +1,8 @@
 
-FRANSKA/MH/ala
 
-Chiens et chats - glósur
+# Chiens et chats - glósur
+
+FRANSKA/MH/ala
 
 Það eru ekki glósur úr verkefnunum sem eru á milli kaflanna – enda flest orðin búin að koma fyrir í textanum á undan. **Ég ráðlegg ykkur að gera öll þessi verkefni**.
 
