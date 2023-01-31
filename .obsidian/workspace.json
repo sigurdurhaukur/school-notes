@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "physics-hl/readme.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cd9c022401eb81e2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "physics-hl/circular-motion-and-gravitation/circular-motion.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -159,7 +146,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cd9c022401eb81e2",
+  "active": "21431e6b29684538",
   "lastOpenFiles": [
     "physics-hl/circular-motion-and-gravitation/Untitled.canvas",
     "physics-hl/circular-motion-and-gravitation/circular-motion.md",
